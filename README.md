@@ -1,5 +1,5 @@
 ## Hi 👋
-I am [Mohammad Ghiyasvand], a dedicated Front-End Developer with a primary focus on Grow up and a strong passion for creating modern web sites.
+I am [Mohammad Ghiyasvand], a dedicated Front-End Developer with a primary focus on grow up and a strong passion for creating modern web sites.
 
 
 
