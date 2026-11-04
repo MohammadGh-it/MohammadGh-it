@@ -11,12 +11,15 @@ I am [Mohammad Ghiyasvand], a dedicated Front-End Developer with a primary focus
 
 ### Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap&logoColor=7910F2)
-![Html](https://img.shields.io/badge/-HTML-61DAFB?logo=html&logoColor=#DD4B25&labelColor=#DD4B25)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Css](https://img.shields.io/badge/-css-5A0FC8?logo=css&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?logo=googlechrome&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap&logoColor=7910F2)
+![Css](https://img.shields.io/badge/-css-5A0FC8?logo=css&logoColor=fff)
+![Html](https://img.shields.io/badge/-HTML-61DAFB?logo=html&logoColor=#DD4B25&labelColor=#DD4B25)
+
 
 ### DevOps & Tools
 ![Linux](https://img.shields.io/badge/-Linux-2496ED?logo=linux&logoColor=fff)
