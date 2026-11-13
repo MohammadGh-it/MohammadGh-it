@@ -13,13 +13,13 @@ I am [Mohammad Ghiyasvand], a dedicated Front-End Developer with a primary focus
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap&logoColor=7910F2)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![Css](https://img.shields.io/badge/-css-5A0FC8?logo=css&logoColor=fff)
-![Html](https://img.shields.io/badge/-HTML-61DAFB?logo=html&logoColor=#DD4B25&labelColor=#DD4B25)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 
 
 ### DevOps & Tools
-![Linux](https://img.shields.io/badge/-Linux-2496ED?logo=linux&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
