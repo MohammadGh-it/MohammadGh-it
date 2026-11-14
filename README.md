@@ -25,7 +25,7 @@ I am [Mohammad Ghiyasvand], a dedicated Front-End Developer with a primary focus
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
 
 ## 🤝 Let's Connect!
-[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohammad-ghiyasvand-04a4b2392/)
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/mohammad-ghiyasvand-04a4b2392)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)](https://github.com/MohammadGh-it/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=GoogleChrome&logoColor=fff)](https://itdeltashop.ir/portfolio-2/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:mohammadghiasvand.it@gmail.com.com)
